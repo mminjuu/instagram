@@ -1,0 +1,22 @@
+<style>
+    div{
+        width:150px;
+        height:150px;
+    }
+
+    img{
+        width:100%;
+        height:100%;
+        object-fit: cover;
+
+        
+        border: solid white 1px;
+        border-radius: 50%;
+
+    }
+
+</style>
+
+<div>
+    <img src="./meommummi.jpg"/>
+</div>

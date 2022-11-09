@@ -1,0 +1,20 @@
+<html lang="en"></html>
+<style>
+    .first{
+        display:inline;
+    }
+    .second{
+        display:block;
+    }
+</style>
+
+<img class="first" src="./h1.jpg" height="200px"/>
+<img src="./h1.jpg" height="200px"/>
+
+<hr/>
+
+<img class="second" src="./h1.jpg" height="200px"/>
+<img src="./h1.jpg" height="200px"/>
+
+
+
