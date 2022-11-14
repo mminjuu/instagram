@@ -9,11 +9,11 @@ document.addEventListener("DOMContentLoaded",
             }
         )
 
-        input.addEventListener("keydown", 
+        input.addEventListener("change", 
             function(e){
-                if (e.key === "Enter"){
+                
                     e.target.setAttribute("type", "button")
-                }
+                
             }
         )
     }
